@@ -1,2 +1,0 @@
-http://learnyouahaskell.com/chapters
-
