@@ -1,3 +1,0 @@
-strings are just lists of characters. "hello" .
-zip [1..] ["apple", "orange", "cherry", "mango"]  
-[(1,"apple"),(2,"orange"),(3,"cherry"),(4,"mango")] 
